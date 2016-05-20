@@ -1,5 +1,4 @@
 # xi
 Beautiful wordpress theme
 
-### this wordpress theme is coming...
-
+### This wordpress theme is coming...
